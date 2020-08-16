@@ -1,6 +1,6 @@
 # Olá, sou o João Marcus 👋
 
-## Projetos Pessoais :construction: 
+## Projetos :construction: 
 
 * Estudando [Algoritmos em C, Paulo Feofillof](https://github.com/Joaom123/algoritmos)
 * [Moviiet](https://github.com/Joaom123/moviee)
