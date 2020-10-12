@@ -8,6 +8,6 @@
 * [Rock Paper Scissors Game](https://github.com/Joaom123/rock-paper-scissors)
 * [Pizza com TDD](https://github.com/Joaom123/pizza-tdd)
 
-## Entre em Contato :bust_in_silhouette:
+## Entre em Contato :mailbox:
 
-💼 [LinkedIn](https://www.linkedin.com/in/joaomarcusmr)
+* [LinkedIn](https://www.linkedin.com/in/joaomarcusmr)
