@@ -11,3 +11,7 @@
 ## Entre em Contato :mailbox:
 
 * [LinkedIn](https://www.linkedin.com/in/joaomarcusmr)
+
+## Sites de programação
+* [HackerRank](https://www.hackerrank.com/JoaoMarcus)
+* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/232059)
