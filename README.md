@@ -12,6 +12,6 @@
 
 * [LinkedIn](https://www.linkedin.com/in/joaomarcusmr)
 
-## :computer: Sites de programação
+## :computer: Sites de Programação
 * [HackerRank](https://www.hackerrank.com/JoaoMarcus)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/232059)
