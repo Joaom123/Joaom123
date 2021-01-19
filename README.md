@@ -1,4 +1,4 @@
-# Olá, me chamo João Marcus 👋
+# Olá, sou o João Marcus 👋
 
 ## :construction: Projetos 
 * [Algoritmos em C, Paulo Feofillof](https://github.com/Joaom123/algoritmos)
