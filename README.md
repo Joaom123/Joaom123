@@ -6,6 +6,7 @@
 * [Pizza com TDD](https://github.com/Joaom123/pizza-tdd)
 * [Curso TDD com Java](https://github.com/Joaom123/TDD-Desenvolvimento-de-Software-Guiado-por-Testes)
 * [Rock Paper Scissors Game](https://github.com/Joaom123/rock-paper-scissors)
+* [Deep Learning with Python](https://github.com/Joaom123/deep-learning-with-python-francois-collet)
 
 ## :computer: Sites de Programação
 * [HackerRank](https://www.hackerrank.com/JoaoMarcus)
