@@ -12,6 +12,7 @@
 * [HackerRank](https://www.hackerrank.com/JoaoMarcus)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/232059)
 * [LeetCode](https://leetcode.com/joaomarcus/)
+* [Kaggle](https://www.kaggle.com/joaomarcus)
 
 ## :mailbox: Entre em Contato 
 [![Linkedin: João Marcus](https://img.shields.io/badge/-JoãoMarcusRocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlineBastos/)](https://www.linkedin.com/in/joaomarcusmr)
