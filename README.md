@@ -18,4 +18,11 @@ I'm currently studying Computer Engineering at IFCE and I am a scholarship holde
 * [Kaggle](https://www.kaggle.com/joaomarcus)
 
 ## :mailbox: Entre em Contato/Contact me
-[![Linkedin: João Marcus](https://img.shields.io/badge/-JoãoMarcusRocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlineBastos/)](https://www.linkedin.com/in/joaomarcusmr)
+<div>
+    <a target='_blank' href="https://www.linkedin.com/in/joaomarcusmr">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://dev.to/joaom123">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
+</div>
