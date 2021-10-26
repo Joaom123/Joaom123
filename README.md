@@ -14,7 +14,6 @@ I'm currently studying Computer Engineering at IFCE and I am a scholarship holde
 ## :computer: Onde me encontrar/Where to find me
 * [HackerRank](https://www.hackerrank.com/JoaoMarcus)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/232059)
-* [Kaggle](https://www.kaggle.com/joaomarcus)
 
 ## :mailbox: Entre em Contato/Contact me
 <div>
