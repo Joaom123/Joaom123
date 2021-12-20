@@ -1,8 +1,8 @@
 # 🇧🇷 Olá, sou o João Marcus 👋
-Atualmente estudo Engenharia da Computação no IFCE e sou bolsista em um projeto de visão computacional. Já atuei como estagiário usando ferramentas como React e Laravel. Gosto de estudar sobre Engenharia de Software, principalmente em como manter o código limpo, Visão Computacional e Ciência de Dados.
+Sou desenvolvedor de software, atuo no desenvolvimento web usando ferramentas como React, Angular, Laravel (PHP) e Spring (Java). Gosto de estudar sobre Engenharia de Software, TDD e em como manter o código limpo e reutilizável.
 
 # 🇺🇸 Hello I'm João Marcus 👋
-I'm currently studying Computer Engineering at IFCE and I am a scholarship holder in a computer vision project. I've worked as an intern using tools like React and Laravel. I like to study about Software Engineering, mainly in how to keep the code clean, Computer Vision and Data Science.
+I'm a software developer, I work in web development using tools like React, Angular, Laravel (PHP) and Spring (Java). I enjoy studying about Software Engineering, TDD and how to keep code clean and reusable.
 
 
 ## :construction: Projetos/Projects 
