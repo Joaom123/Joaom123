@@ -11,10 +11,6 @@ I'm a software developer, I work in web development using tools like React, Angu
 * [Pizza com TDD](https://github.com/Joaom123/pizza-tdd)
 * [Curso TDD com Java](https://github.com/Joaom123/TDD-Desenvolvimento-de-Software-Guiado-por-Testes)
 
-## :computer: Onde me encontrar/Where to find me
-* [HackerRank](https://www.hackerrank.com/JoaoMarcus)
-* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/232059)
-
 ## :mailbox: Entre em Contato/Contact me
 <div>
     <a target='_blank' href="https://www.linkedin.com/in/joaomarcusmr">
