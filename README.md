@@ -8,8 +8,7 @@ I'm a software developer, I work in web development using tools like React, Angu
 ## :construction: Projetos/Projects 
 * [Moviiet](https://github.com/Joaom123/moviee)
 * [Rock Paper Scissors Game](https://github.com/Joaom123/rock-paper-scissors)
-* [Pizza com TDD](https://github.com/Joaom123/pizza-tdd)
-* [Curso TDD com Java](https://github.com/Joaom123/TDD-Desenvolvimento-de-Software-Guiado-por-Testes)
+* [Tip Calculator](https://github.com/Joaom123/tip-calculator-angular)
 
 ## :mailbox: Entre em Contato/Contact me
 <div>
